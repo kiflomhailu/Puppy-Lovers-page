@@ -1,0 +1,56 @@
+#banner img{
+    width: 100%;
+    margin-bottom: 84px;
+}
+.blueBG{
+    background-color:#085070;
+}
+.firstText{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    padding-top:36px;
+    padding-bottom: 30px;
+    
+}
+.fixedContainer{
+    width: 960px;
+
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.threeImages{
+   display: flex; 
+    justify-content: space-between;
+}
+.secondText{
+    text-align: center;
+    font-size: 58px;
+    height: 311px;
+    background-color: #f04d64;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+    
+}
+.thirdText
+{
+    text-align: center;
+    font-size: 80px;
+    padding-top: 63px;
+    padding-bottom: 60px;
+}
+.twoImages{
+    display: flex;
+    margin-bottom: 76px;
+    justify-content: space-between;
+}
+.fourthText
+{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    padding-top: 96px;
+    padding-bottom: 108px;
+}  
